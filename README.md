@@ -1,32 +1,25 @@
 # Estudo da Linguagem Java
 
-Bem-vindo ao meu repositório de estudos da linguagem Java!
+Este repositório contém materiais de estudo e projetos práticos relacionados à linguagem de programação Java.
 
-Este repositório foi criado com o objetivo de armazenar e organizar meus estudos sobre a linguagem de programação Java. Aqui você encontrará materiais, exemplos de código e anotações sobre diversos tópicos relacionados ao Java.
+## Estrutura de Pastas
 
-## Conteúdo
-
-O repositório está organizado em pastas, cada uma dedicada a um tópico específico do Java. Alguns dos tópicos abordados incluem:
-
-* **anatomia_das_classes:** Estudo da estrutura e componentes de uma classe Java.
-* **documentacao:** Exploração da importância da documentação em Java e uso do Javadoc.
-* **escopo:** Compreensão dos diferentes tipos de escopo em Java.
-* **metodos:** Estudo da criação e uso de métodos em Java.
-* **operadores:** Exploração dos diferentes tipos de operadores em Java.
-* **palavras_reservadas:** Estudo das palavras-chave reservadas da linguagem Java.
-* **terminal_e_argumentos:** Aprendizado sobre como usar o terminal para compilar e executar programas Java.
-* **tipos_de_variaveis:** Estudo dos tipos de dados em Java.
+* **src:** Pasta raiz do código-fonte.
+    * **edu:** Pasta para projetos educacionais ou acadêmicos.
+        * **java:** Pasta com pacotes e classes Java.
+            * **anatomia_das_classes:** Estudo da estrutura e componentes de uma classe Java.
+            * **controle_de_fluxo:** Estudo das estruturas de controle de fluxo (if-else, switch, loops).
+            * **documentacao:** Estudo da importância da documentação e uso de Javadoc.
+            * **escopo:** Estudo dos diferentes tipos de escopo em Java.
+            * **metodos:** Estudo da criação e uso de métodos em Java.
+            * **operadores:** Estudo dos operadores em Java.
+            * **palavras_reservadas:** Estudo das palavras-chave da linguagem Java.
+            * **terminal_e_argumentos:** Estudo de como usar o terminal e passar argumentos para programas Java.
+            * **tipos_de_variaveis:** Estudo dos tipos de dados em Java.
+            * **projetos.contaBanco:** Projeto prático de um sistema de conta bancária.
 
 ## Como Usar Este Repositório
 
-Sinta-se à vontade para explorar o conteúdo do repositório, executar os exemplos de código e usar os materiais de estudo para aprimorar seus conhecimentos em Java.
-
-Se você encontrar erros, tiver sugestões de melhorias ou quiser contribuir com novos materiais, fique à vontade para abrir um pull request.
-
-## Contribuição
-
-Contribuições são sempre bem-vindas! Se você tiver algum material de estudo, exemplo de código ou correção que gostaria de compartilhar, fique à vontade para abrir um pull request.
-
-## Observações
-
-* Este README.md fornece uma visão geral do repositório e seu conteúdo.
+* Explore as pastas de estudo para aprender sobre os diferentes tópicos de Java.
+* Execute os exemplos de código para praticar os conceitos.
+* Analise o projeto `projetos.contaBanco` para ver como os conceitos são aplicados em um cenário prático.
