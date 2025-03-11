@@ -1,6 +1,6 @@
 package edu.java.controle_de_fluxo;
 
-public class ControleDeFluxo {
+public class Condicionais {
     public static void main(String[] args) {
         int nota = 8;
 
