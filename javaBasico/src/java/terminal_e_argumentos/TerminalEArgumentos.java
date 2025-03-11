@@ -1,4 +1,4 @@
-package edu.java.terminal_e_argumentos;
+package java.terminal_e_argumentos;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package edu.java.controle_de_fluxo;
+package java.controle_de_fluxo;
 
 public class Condicionais {
     public static void main(String[] args) {

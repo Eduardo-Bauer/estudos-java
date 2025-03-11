@@ -1,4 +1,4 @@
-package edu.java.documentacao;
+package java.documentacao;
 // https://felipe-aguiar.gitbook.io/dio-java/gitbook/sintaxe/documentacao
 
 /**

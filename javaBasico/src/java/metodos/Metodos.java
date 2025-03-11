@@ -1,4 +1,4 @@
-package edu.java.metodos;
+package java.metodos;
 
 public class Metodos {
     public static void main(String[] args) {

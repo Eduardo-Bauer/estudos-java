@@ -4,7 +4,7 @@
 * Variavel dentro de um metodo, apenas o metodo consegue ver ela.
 * */
 
-package edu.java.escopo;
+package java.escopo;
 
 public class Escopo {
     public static void main(String[] args) {

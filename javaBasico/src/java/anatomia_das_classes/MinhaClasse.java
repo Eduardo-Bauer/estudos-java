@@ -1,4 +1,4 @@
-package edu.java.anatomia_das_classes;
+package java.anatomia_das_classes;
 
 public class MinhaClasse {
     public static void main(String[] args) {

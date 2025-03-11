@@ -1,4 +1,4 @@
-package edu.java.metodos.exercicio_smart_tv;
+package java.metodos.exercicio_smart_tv;
 
 public class SmartTv {
     boolean ligada = false;
