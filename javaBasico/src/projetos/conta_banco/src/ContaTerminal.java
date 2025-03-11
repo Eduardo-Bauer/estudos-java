@@ -28,5 +28,7 @@ public class ContaTerminal {
                 "Olá %s, obrigado por criar uma conta em nosso banco. Sua agência é %s, conta %s e seu saldo %.2f já está disponível para saque.%n",
                 nomeCliente, agencia, numeroConta, saldo
         );
+
+        scanner.close();
     }
 }

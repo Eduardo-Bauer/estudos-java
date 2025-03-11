@@ -19,6 +19,7 @@ public class ControleDeFluxo {
         } catch (ParametrosInvalidosException exception){
             System.out.println("O segundo parametro dever ser maior que o primerio");
         }
+        scanner.close();
     }
 
     static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException {
